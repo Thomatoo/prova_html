@@ -1,0 +1,38 @@
+p{
+  text-align:center;
+  border:3px solid blue;
+}
+
+p:hover{
+  text-decoration:line-through;
+}
+
+a:link{
+  color:#086788;
+  background-color:trasparent;
+  text-decoration:none;
+  border:4px solid yellow;
+  padding:22px;
+  margin:15px;
+
+}
+
+a:active{
+  color:#50514F;
+  background-color:#B4ADEA;
+  text-decoration:none;
+}
+
+a:hover{
+  font-family:courier;
+  font-size:300%;
+  color:#59FFA0;
+  background-color:trasparent;
+  text-decoration:underline;
+}
+
+a:visited{
+  color:lightblue;
+  background-color:#F0B67F;
+  text-decoration:line-through;
+}
