@@ -1,0 +1,5 @@
+table, th, td{
+  border:3px solid green;
+  border-collapse:collapse;
+  border-style:dotted;
+}

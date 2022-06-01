@@ -1,0 +1,6 @@
+table, th, td{
+  borser:3px solid black;
+  border-collapse: collapse;
+  border-color:red;
+  border-style: outset;
+}

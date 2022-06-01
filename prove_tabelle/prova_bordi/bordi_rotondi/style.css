@@ -1,0 +1,12 @@
+table, th, td{
+  border:1px solid red;
+  border-radius:20px;
+}
+
+th{
+  font-size:20px;
+}
+
+td{
+  font-size:10;
+}

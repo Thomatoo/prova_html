@@ -1,0 +1,8 @@
+tr:nth-child(even){
+  background-color:rgba(223, 43, 34, 0.5);
+}
+
+th:nth-child(even), td:nth-child(even){
+  background-color:rgba(223, 43, 34, 0.5);
+
+}
